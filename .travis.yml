@@ -1,0 +1,9 @@
+dist: xenial
+language: generic
+
+install:
+  - curl -L https://raw.githubusercontent.com/core-man/install/master/install-hugo.sh | bash
+  - git submodule update --remote
+
+script:
+  - ./hugo
