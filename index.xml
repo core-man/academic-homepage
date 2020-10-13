@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiayuan Yao</title>
+    <link>https://core-man.github.io/academic-homepage/</link>
+      <atom:link href="https://core-man.github.io/academic-homepage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiayuan Yao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 Jiayuan Yao</copyright><lastBuildDate>Thu, 30 May 2019 17:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://core-man.github.io/academic-homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jiayuan Yao</title>
+      <link>https://core-man.github.io/academic-homepage/</link>
+    </image>
+    
+    <item>
+      <title>Location and source characteristics of North Korea’s 2017 nuclear test and its triggered seismicity</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2019-nknt-iggcas/</link>
+      <pubDate>Thu, 30 May 2019 17:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2019-nknt-iggcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location and source characteristics of North Korea’s 2017 nuclear test and its triggered seismicity</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2019-nknt-hust/</link>
+      <pubDate>Thu, 30 May 2019 12:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2019-nknt-hust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal change of seismic Earth&#39;s inner core phases: inner core differential rotation or temporal change of inner core surface?</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2019-yao-jgr/</link>
+      <pubDate>Mon, 20 May 2019 01:37:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2019-yao-jgr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/project/nuclear-test/</link>
+      <pubDate>Tue, 25 Sep 2018 19:28:42 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/project/nuclear-test/</guid>
+      <description>&lt;p&gt;North Korea has conducted six nuclear tests since 2006. The five tests since 2009 are located beneath the same mountain Mantap, while the first one on 2006 is located beneath a different mountain.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-locations-origin-times-and-yields-of-north-koreas-six-nuclear-tests&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://core-man.github.io/academic-homepage/academic-homepage/project/nuclear-test/six-tests_hu80224acfe450036a94bf54ab3aa710ec_2783324_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Locations, origin times and yields of North Korea&amp;amp;rsquo;s six nuclear tests.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://core-man.github.io/academic-homepage/academic-homepage/project/nuclear-test/six-tests_hu80224acfe450036a94bf54ab3aa710ec_2783324_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5130&#34; height=&#34;3562&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Locations, origin times and yields of North Korea&amp;rsquo;s six nuclear tests.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;source-parameters-of-north-koreas-nuclear-tests&#34;&gt;Source parameters of North Korea&amp;rsquo;s nuclear tests&lt;/h2&gt;
+&lt;p&gt;Locations, origin times and yields of North Korea&amp;rsquo;s nuclear tests (NKNT) are reported by 
+&lt;a href=&#34;http://www.ntu.edu.sg/home/jiayuanyao/publication/yao2018asrl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yao et al., 2018a, &lt;em&gt;SRL&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1. Source parameters of North Korea&amp;rsquo;s nuclear tests&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Latitude&lt;/th&gt;
+&lt;th&gt;Longitude&lt;/th&gt;
+&lt;th&gt;Depth (m)&lt;/th&gt;
+&lt;th&gt;Yield (kt)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2006-10-09&lt;/td&gt;
+&lt;td&gt;01:35:27.998&lt;/td&gt;
+&lt;td&gt;41.2879&lt;/td&gt;
+&lt;td&gt;129.1083&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;0.48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2009-05-25&lt;/td&gt;
+&lt;td&gt;00:54:43.167&lt;/td&gt;
+&lt;td&gt;41.2955&lt;/td&gt;
+&lt;td&gt;129.0811&lt;/td&gt;
+&lt;td&gt;690&lt;/td&gt;
+&lt;td&gt;7.7±2.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2013-02-12&lt;/td&gt;
+&lt;td&gt;02:57:51.322&lt;/td&gt;
+&lt;td&gt;41.2926&lt;/td&gt;
+&lt;td&gt;129.0760&lt;/td&gt;
+&lt;td&gt;490&lt;/td&gt;
+&lt;td&gt;13.5±4.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2016-01-06&lt;/td&gt;
+&lt;td&gt;01:30:01.038&lt;/td&gt;
+&lt;td&gt;41.2993&lt;/td&gt;
+&lt;td&gt;129.0715&lt;/td&gt;
+&lt;td&gt;700&lt;/td&gt;
+&lt;td&gt;11.4±4.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2016-09-09&lt;/td&gt;
+&lt;td&gt;00:30:01.353&lt;/td&gt;
+&lt;td&gt;41.3001&lt;/td&gt;
+&lt;td&gt;129.0776&lt;/td&gt;
+&lt;td&gt;790&lt;/td&gt;
+&lt;td&gt;18.0±5.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2017-09-03&lt;/td&gt;
+&lt;td&gt;03:30:01.655&lt;/td&gt;
+&lt;td&gt;41.3018&lt;/td&gt;
+&lt;td&gt;129.0738&lt;/td&gt;
+&lt;td&gt;770&lt;/td&gt;
+&lt;td&gt;109.4±48.6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Locations and their uncertainties of the six tests and those of the portals are available in Google Earth KML format 
+&lt;a href=&#34;NKNT.tar&#34;&gt;NKNT.kml&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;north-koreas-september-3-2017-nuclear-test&#34;&gt;North Korea’s September 3 2017 nuclear test&lt;/h2&gt;
+&lt;h3 id=&#34;main-test&#34;&gt;Main test&lt;/h3&gt;
+&lt;p&gt;On 3 September 2017, North Korea conducted the sixth nuclear test, which is the largest.
+For details of the source characteristic of the 2017 test, see 
+&lt;a href=&#34;http://www.ntu.edu.sg/home/jiayuanyao/publication/yao2018asrl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yao et al., 2018a, &lt;em&gt;SRL&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;collapse-event-85-minutes-after-the-2017-test&#34;&gt;Collapse event 8.5 minutes after the 2017 test&lt;/h3&gt;
+&lt;p&gt;The 2017 test had resulted in an on-site collapse of the Mt. Mantap.
+For details of the collapse event after the 2017 test, see 
+&lt;a href=&#34;http://www.ntu.edu.sg/home/jiayuanyao/publication/tian2018grl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tian et al., 2018, &lt;em&gt;GRL&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;seismicty-triggered-by-the-2017-test&#34;&gt;Seismicty Triggered by the 2017 test&lt;/h3&gt;
+&lt;p&gt;The 2017 test triggered an earthquake swarm 8.4 km north of the nuclear test site.
+For details of the earthquake swarm after the 2017 test, see 
+&lt;a href=&#34;http://www.ntu.edu.sg/home/jiayuanyao/publication/tian2018grl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tian et al., 2018, &lt;em&gt;GRL&lt;/em&gt;&lt;/a&gt; and 
+&lt;a href=&#34;http://www.ntu.edu.sg/home/jiayuanyao/publication/yao2018bsrl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yao et al., 2018b, &lt;em&gt;SRL&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Location and source characteristics of North Korea’s 2017 nuclear test and its triggered seismicity</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-nknt-eos/</link>
+      <pubDate>Tue, 25 Sep 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-nknt-eos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triggered seismicity after North Korea’s 3 September 2017 nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2018-yao-srl-b/</link>
+      <pubDate>Tue, 25 Sep 2018 00:01:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2018-yao-srl-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source characteristics of North Korea’s 3 September 2017 nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2018-yao-srl-a/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2018-yao-srl-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower mantle</title>
+      <link>https://core-man.github.io/academic-homepage/project/lower-mantle/</link>
+      <pubDate>Fri, 17 Aug 2018 19:25:07 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/project/lower-mantle/</guid>
+      <description>&lt;p&gt;The core-mantle boundary (CMB) is one of the most important interfaces in the Earth’s interior and plays a key role in the geodynamical evolution of the planet. Many studies have reported existence of ultra-low velocity zones (ULVZs) at the CMB, which are characterized by zones of variable thickness of ∼5–50 km with negative P and S velocity perturbations of 10% or greater. Mapping the geographic presence of ULVZs and their relationship to the surrounding velocity structure would place important constraints on the origin of ULVZs, dynamical and chemical evolution of the Earth’s mantle and origin of the hotspots.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-1-seismic-structure-and-ultra-low-velocity-zones-at-the-base-of-the-earths-mantle-beneath-southeast-asia&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://core-man.github.io/academic-homepage/academic-homepage/project/lower-mantle/CMB_cartoon_hu8b397b385841c24c16cbf456c80431fe_1186687_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Figure 1: Seismic structure and ultra-low velocity zones at the base of the Earth’s mantle beneath Southeast Asia.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://core-man.github.io/academic-homepage/academic-homepage/project/lower-mantle/CMB_cartoon_hu8b397b385841c24c16cbf456c80431fe_1186687_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Seismic structure and ultra-low velocity zones at the base of the Earth’s mantle beneath Southeast Asia.&#34; width=&#34;5587&#34; height=&#34;2945&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1: Seismic structure and ultra-low velocity zones at the base of the Earth’s mantle beneath Southeast Asia.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Inner core boundary</title>
+      <link>https://core-man.github.io/academic-homepage/project/inner-core-boundary/</link>
+      <pubDate>Fri, 17 Aug 2018 19:06:03 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/project/inner-core-boundary/</guid>
+      <description>&lt;p&gt;The nature of Earth&amp;rsquo;s inner core boundary (ICB) provides key information about the inner core solidification process and the driving forces for thermo-compositional convection in the outer core and the Earth&amp;rsquo;s geodynamo. The traditional views have been that the inner core growing process is geologically slow and geographically uniform, due to the vigorous small-scale convection in the outer core. Recent studies, however, revealed that the ICB is locally enlarged by 0.98–1.75 km beneath Africa between 1993 and 2003, and exhibits significant topography. Therefore, temporal change of inner core surface in the global scale and the longer time scale would give us a better understanding of the evolution of the Earth’s core.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-1-temporal-change-of-inner-core-surface-beneath-africa-atlantic-ocean-and-indian-ocean&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://core-man.github.io/academic-homepage/academic-homepage/project/inner-core-boundary/Africa_ICB_hu8b397b385841c24c16cbf456c80431fe_3282161_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;&amp;lt;strong&amp;gt;Figure 1: Temporal change of inner core surface beneath Africa, Atlantic Ocean, and Indian Ocean.&amp;lt;/strong&amp;gt;&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://core-man.github.io/academic-homepage/academic-homepage/project/inner-core-boundary/Africa_ICB_hu8b397b385841c24c16cbf456c80431fe_3282161_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Figure 1: Temporal change of inner core surface beneath Africa, Atlantic Ocean, and Indian Ocean.&#34; width=&#34;4314&#34; height=&#34;6941&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1: Temporal change of inner core surface beneath Africa, Atlantic Ocean, and Indian Ocean.&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Seismic Imaging</title>
+      <link>https://core-man.github.io/academic-homepage/project/seismic-imaging/</link>
+      <pubDate>Fri, 17 Aug 2018 18:58:04 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/project/seismic-imaging/</guid>
+      <description>&lt;p&gt;We are developing joint inversion of multiple seisic data to invert seismic structures in Myanmar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Seismic monitoring of North Korea’s 3 September nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-nknt-cenc/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-nknt-cenc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and location of small seismic events</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-ustc-seismic-workshop/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-ustc-seismic-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic monitoring of North Korea’s 3 September nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-nknt-iggcas/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-nknt-iggcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal change of Earth’s inner core surface, seismic structure near the CMB and North Korea’s nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-phd-thesis-defense/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-phd-thesis-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal change of seismic Earth’s inner core phases: inner core differential rotation or temporal change of inner core surface?</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2017-icb-change-cgu/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2017-icb-change-cgu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal change of seismic Earth’s inner core phases: inner core differential rotation or temporal change of inner core surface?</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-icb-change-iggcas/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-icb-change-iggcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal change of the Earth’s inner core boundary</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2016-icb-change-cenc/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2016-icb-change-cenc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal change of the Earth’s inner core surface and seismic monitoring of North Korea’s 3 September nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/talk/2018-icb-nknt-iefcea/</link>
+      <pubDate>Fri, 17 Aug 2018 15:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/talk/2018-icb-nknt-iefcea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collapse and earthquake swarm after North Korea&#39;s 3 September 2017 nuclear test</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2018-tian-grl/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2018-tian-grl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic structure and dynamic process of the Earth&#39;s inner core and its boundary</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2018-wen-cgj/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2018-wen-cgj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://core-man.github.io/academic-homepage/news/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;May 21, 2019&lt;/strong&gt;: The paper on &lt;em&gt;Temporal change of seismic Earth&amp;rsquo;s inner core phases: inner core differential rotation or temporal change of inner core surface?&lt;/em&gt; has been accepted at 
+&lt;a href=&#34;https://doi.org/10.1029/2019JB017532&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JGR&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sep. 20, 2018&lt;/strong&gt;: The paper on source characteristics of North Korea&amp;rsquo;s 2017 nuclear test has been published 
+&lt;a href=&#34;https://doi.org/10.1785/0220180134&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; at &lt;em&gt;SRL&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sep. 20, 2018&lt;/strong&gt;: The paper on triggerred seismicity after North Korea&amp;rsquo;s 2017 nuclear test has been published 
+&lt;a href=&#34;https://doi.org/10.1785/0220180135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; at &lt;em&gt;SRL&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Aug. 1, 2018&lt;/strong&gt;: Jiayuan Yao commenced to work as a &lt;strong&gt;research fellow&lt;/strong&gt; at the School of Physical &amp;amp; Mathematical Sciences at Nanyang Technological University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jun. 21, 2018&lt;/strong&gt;: Jiayuan Yao has been admitted to the degree of &lt;strong&gt;Doctor of Natural Science in Geophysics&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;May 28, 2018&lt;/strong&gt;: Jiayuan Yao has sucessfully defended his Ph.D. thesis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mar. 12, 2018&lt;/strong&gt;: Jiayuan Yao is awarded the &lt;strong&gt;Outstanding Graduate Student Award&lt;/strong&gt; from University of Science and Technology of China, and the &lt;strong&gt;Outstanding Graduate Students with Good Conduct&lt;/strong&gt; in Anhui Province.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two decades of temporal change of Earth&#39;s inner core boundary</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2015-yao-jgr/</link>
+      <pubDate>Sun, 02 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2015-yao-jgr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic structure and ultra-low velocity zones at the base of the Earth’s mantle beneath Southeast Asia</title>
+      <link>https://core-man.github.io/academic-homepage/publication/2014-yao-pepi/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/publication/2014-yao-pepi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seismic-imaging | Jiayuan Yao</title>
+    <link>https://core-man.github.io/academic-homepage/tag/seismic-imaging/</link>
+      <atom:link href="https://core-man.github.io/academic-homepage/tag/seismic-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>seismic-imaging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 Jiayuan Yao</copyright><lastBuildDate>Fri, 17 Aug 2018 18:58:04 +0800</lastBuildDate>
+    <image>
+      <url>https://core-man.github.io/academic-homepage/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>seismic-imaging</title>
+      <link>https://core-man.github.io/academic-homepage/tag/seismic-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Seismic Imaging</title>
+      <link>https://core-man.github.io/academic-homepage/project/seismic-imaging/</link>
+      <pubDate>Fri, 17 Aug 2018 18:58:04 +0800</pubDate>
+      <guid>https://core-man.github.io/academic-homepage/project/seismic-imaging/</guid>
+      <description>&lt;p&gt;We are developing joint inversion of multiple seisic data to invert seismic structures in Myanmar.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
