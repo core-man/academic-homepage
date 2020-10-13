@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- 2019 Fall: Mathematics A ([PPT](./files/MathematicsA-20190830.pdf))
+- 2019 Fall: Mathematics A ([PPT](./files/MathematicsA.pdf))
 - 2019 Spring: Calculus II
