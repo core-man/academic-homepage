@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow in Geophysics
+role: Research Fellow at NTU
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,14 @@ organizations:
   url: "http://spms.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include seismic source and imaging.
+bio:
 
 interests:
 - Seismic Imaging
 - Structures of the Earth's Deep Interior
-- Earthquakes Location
+- Seismic Monitoring
 - Repeating Earthquake
+- Inverse Problems
 
 education:
   courses:
